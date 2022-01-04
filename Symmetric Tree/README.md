@@ -1,4 +1,4 @@
-# LeetCode 71. Symmetric Tree
+# LeetCode 101. Symmetric Tree
 트리의 루트를 기준으로 트리가 대칭을 이루는지 Boolean 으로 반환하는 함수를 만들어야 하는 문제다.\
 따라서 양쪽 Sub-Tree 가 같은 모양임을 확인하는 로직은 사용할 수 없다.\
 
