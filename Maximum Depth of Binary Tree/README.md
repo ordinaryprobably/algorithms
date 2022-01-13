@@ -1,6 +1,7 @@
 # 104. Maximum Depth of Binary Tree
 Binary Tree 의 깊이를 반환하는 문제다.\
-Depth First Search 의 재귀 풀이와 매우 비슷한 모양으로 풀 수 있다.
+Depth First Search 의 재귀 풀이와 매우 비슷한 모양으로 풀 수 있다.\
+꼭 너비 우선 탐색을 응용 할 필요가 없다.
 ```
 function maxDepth(root) {
   let count = 0;
