@@ -28,3 +28,5 @@ function TreeNode(val, left, right) {
   this.right = (right===undefined ? null : right)
 }
 ```
+아래의 링크에서 설명을 읽을 수 있다.\
+https://medium.com/confessions-of-a-bootcamp-grad/how-to-solve-leetcodes-convert-sorted-array-to-binary-search-tree-problem-with-javascript-a61e6d6d6c36
